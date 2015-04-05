@@ -61,7 +61,7 @@ public class Info extends Activity {
                             startActivity(intent);
                         break;
                     case 1:
-                        String posted_by = "+918938903941";
+                        String posted_by = "+919999999999";
 
                         String uri = "tel:" + posted_by.trim() ;
                         intent = new Intent(Intent.ACTION_CALL);
