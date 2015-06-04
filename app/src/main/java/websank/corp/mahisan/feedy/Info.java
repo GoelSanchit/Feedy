@@ -1,4 +1,4 @@
-package websank.corp.mahisan.feedy
+package websank.corp.mahisan.feedy;
 
 import android.app.Activity;
 import android.content.Intent;
