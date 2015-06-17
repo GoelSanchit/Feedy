@@ -1,4 +1,4 @@
-package websank.corp.mahisan.
+package websank.corp.mahisan.feedy;
 
 
 import java.util.ArrayList;
