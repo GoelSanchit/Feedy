@@ -1,5 +1,5 @@
 # Feedy
-An App On Indian Government Data
+An App On Indian Government Data.
 
 #Fetch Data From Data.gov.in..
 
