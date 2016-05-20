@@ -5,14 +5,13 @@ public class Country {
     String code = null;
     String name = null;
     boolean selected = false;
-
+    
     public Country(String code, String name, boolean selected) {
         super();
         this.code = code;
         this.name = name;
         this.selected = selected;
     }
-
     public String getCode() {
         return code;
     }
