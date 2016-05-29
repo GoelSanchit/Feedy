@@ -33,5 +33,4 @@ public class Country {
         this.selected = selected;
     }
 
-
 }
